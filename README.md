@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-dulce-tentacion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Piel de dulce tentación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-dulce-tentacion/) |
+| **Get License** | [License this song: Piel de dulce tentación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-dulce-tentacion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Piel de dulce tentación, me llama sin razón
+> Tus labios son mi perdición, esta noche es nuestra canción
+> Bailamos sin dirección, perdidos en la vibración
+> Solo tú y yo en esta habitación, pura satisfacción
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
