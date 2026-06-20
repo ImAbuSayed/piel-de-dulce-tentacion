@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-dulce-tentacion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Piel de dulce tentación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-dulce-tentacion/) |
+| **Get License** | [Commercial Licensing for Piel de dulce tentación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-dulce-tentacion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `87fb185cb38fcbda85f63e86ee0e2fd758f54869b50d81c49b53a747ffc751cf` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
